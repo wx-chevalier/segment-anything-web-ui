@@ -7,3 +7,5 @@
 # Links
 
 - https://github.com/varhuman/SAM-webui
+- https://github.com/Kingfish404/segment-anything-webui
+- https://github.com/lujiazho/SegDrawer
